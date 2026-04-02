@@ -9,7 +9,7 @@ export default function Home() {
           <span className="logo-icon inline-flex justify-center items-center w-6 h-6 bg-[#4ade80] text-[#101115] font-extrabold rounded text-sm -skew-x-12">
             G
           </span>
-          <span className="logo-text text-base font-bold tracking-wide">TOGOO.CC</span>
+          <span className="logo-text text-base font-bold tracking-wide">NeonSpins.bet</span>
         </div>
         <div className="balance-container flex items-center bg-white/5 rounded-full p-1 pl-3">
           <span className="balance-text font-semibold mr-2 text-sm">$5.93</span>
